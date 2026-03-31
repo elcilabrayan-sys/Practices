@@ -1,2 +1,2 @@
 # Practices
-My first project
+My first project. I'm learning Python
